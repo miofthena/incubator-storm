@@ -185,7 +185,7 @@
         <commons-lang.version>2.5</commons-lang.version>
         <commons-exec.version>1.1</commons-exec.version>
         <clj-time.version>0.4.1</clj-time.version>
-        <curator.version>2.4.0</curator.version>
+        <curator.version>2.4.2</curator.version>
         <json-simple.version>1.1</json-simple.version>
         <ring.version>0.3.11</ring.version>
         <clojure.tools.logging.version>0.2.3</clojure.tools.logging.version>
@@ -196,7 +196,7 @@
         <clojure.tools.cli.version>0.2.4</clojure.tools.cli.version>
         <disruptor.version>2.10.1</disruptor.version>
         <jgrapht.version>0.9.0</jgrapht.version>
-        <guava.version>13.0</guava.version>
+        <guava.version>17.0</guava.version>
         <logback-classic.version>1.0.6</logback-classic.version>
         <log4j-over-slf4j.version>1.6.6</log4j-over-slf4j.version>
         <netty.version>3.6.3.Final</netty.version>
