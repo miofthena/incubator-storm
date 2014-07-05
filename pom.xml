@@ -18,13 +18,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>org.apache</groupId>
-        <artifactId>apache</artifactId>
-        <version>10</version>
-    </parent>
-
-
     <groupId>org.apache.storm</groupId>
     <artifactId>storm</artifactId>
     <version>0.9.3-incubating-SNAPSHOT</version>
@@ -284,7 +277,7 @@
         <repository>
             <id>MSK-PROJECTS2</id>
             <name>MSK-PROJECTS2-release</name>
-            <url>http://msk-projects2:81/artifactory/libs-release-local</url>
+            <url>http://msk-projects2:81/artifactory/libs-snapshot-local</url>
         </repository>
     </distributionManagement>
 
